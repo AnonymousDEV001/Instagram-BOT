@@ -1,0 +1,16 @@
+{
+  "attemptOptions": {
+    "delay": 60000,
+    "factor": 1.5,
+    "maxAttempts": 10,
+    "minDelay": 60000,
+    "maxDelay": 300000,
+    "jitter": true
+  },
+  "order": "default",
+  "query": "",
+  "enableGroups": true,
+  "id": 25633749557,
+  "moreAvailable": true,
+  "nextMaxId": "38775|QVFCN3JlY3dtbHQtZlIwaHJlTUo0V0VKak5WTG5kV0dxNWtKeGc1OEJxMVVnR1pDMWJ5aDVUc0RBOWcwNjdrdHM1OWdPUVNSQjBZQ3lKVXJWQkw3ZVZGNg=="
+}
